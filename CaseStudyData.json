@@ -8,7 +8,7 @@
 { "ProductName": "ULTRABOOST 21 BLACK", "GraphicName": "AShoes_Black.jpg.jpeg", "CostPrice": "65.00", "MSRP": "280.00", "QtyOnHand": "46", "QtyOnBackOrder": "2", "Description": "Adidas colored shoes", "Brands": "Adidas" }, 
 { "ProductName": "ULTRABOOST 21 PRIMEBLUE", "GraphicName": "AShoes_White.jpeg", "CostPrice": "40.00", "MSRP": "280.00", "QtyOnHand": "39", "QtyOnBackOrder": "2", "Description": "Adidas colored shoes", "Brands": "Adidas" }, 
 { "ProductName": "ULTRABOOST 21 GRAY", "GraphicName": "AShoes_Grey.jpeg", "CostPrice": "70.00", "MSRP": "280.00", "QtyOnHand": "44", "QtyOnBackOrder": "3", "Description": "Adidas colored shoes", "Brands": "Adidas" }, 
-{ "ProductName": "BLACK SHORT SLEEVE T-SHIRT", "GraphicName": "blackshirt.jpeg", "CostPrice": "50.00", "MSRP": "60.00", "QtyOnHand": "58", "QtyOnBackOrder": "4", "Description": "NY colored shirt": "New Era" }, 
+{ "ProductName": "BLACK SHORT SLEEVE T-SHIRT", "GraphicName": "blackshirt.jpeg", "CostPrice": "50.00", "MSRP": "60.00", "QtyOnHand": "58", "QtyOnBackOrder": "4", "Description": "NY colored shirt", "Brands": "New Era" }, 
 { "ProductName": "BLUE SHORT SLEEVE T-SHIRT", "GraphicName": "blueshirt.jpeg", "CostPrice": "50.00", "MSRP": "60.00", "QtyOnHand": "41", "QtyOnBackOrder": "3", "Description": "NY colored shirt": "New Era" },
 { "ProductName": "NAVY SHORT SLEEVE T-SHIRT", "GraphicName": "navyshirt.jpeg", "CostPrice": "50.00", "MSRP": "60.00", "QtyOnHand": "59", "QtyOnBackOrder": "4", "Description": "NY colored shirt", "Brands": "New Era" }, 
 { "ProductName": "BLUE 59FIFTY FITTED", "GraphicName": "bluehat.jpeg", "CostPrice": "40.00", "MSRP": "50.00", "QtyOnHand": "41", "QtyOnBackOrder": "3", "Description": "NY colored hat", "Brands": "New Era" }, 
